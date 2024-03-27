@@ -59,8 +59,8 @@ export function MainNav({
 
   return (
     <nav className={cn("flex items-center space-x-4 lg:space-x-6", className)}>
-      {routes.map((route) => (
-        <div className="cursor-pointer">
+      {routes.map((route, index) => (
+        <div className="cursor-pointer" key={index}>
           <Link
             key={route.href}
             href={route.href}
