@@ -125,28 +125,6 @@ The vision of Shine-Kart is to provide e-commerce businesses with an all-in-one 
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
-## CONTRIBUTION
-We welcome contributions from the open-source community to enhance the features and functionalities of the Shine-Kart Admin Dashboard. To contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature
-   ```
-3. Make your changes and commit them:
-   ```bash
-   git commit -m 'Add some feature'
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/your-feature
-   ```
-5. Submit a pull request.
-
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
-
 ## CONCLUSION
 A powerful and user-friendly admin dashboard and CMS designed to streamline Shine-Kart E-Commerce store management. By combining essential features like product management, order tracking, and payment integration, Shine-Kart simplifies the daily operations of online businesses, allowing admins to focus on growth. 
 
